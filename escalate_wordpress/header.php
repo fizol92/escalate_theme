@@ -1,6 +1,7 @@
 <!DOCTYPE html">
 <html>
 <head>
+<meta property="fb:pages" content="111751277237113" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title><?php bloginfo('title'); ?></title>
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600' rel='stylesheet' type='text/css'>
